@@ -1,0 +1,21 @@
+1. install c++ build tool 
+2. install rust
+3. install cargo
+
+4.
+pip install transformers
+pipreqs /path/to/project
+pip freeze > requirements.txt
+
+5. follow up :
+https://dev.to/blackrossay/exploring-nvidias-llama-31-nemotron-70b-instruct-model-a-breakthrough-in-ai-language-models-3en
+
+6. (optional) : 
+build .Net Blazor page UI chatGPT like
+
+
+
+
+** to activate : **
+. .venv/Scripts/activate
+
